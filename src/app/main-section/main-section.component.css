@@ -1,0 +1,20 @@
+.container-fluid {
+
+background-color: #2d3748;
+border-bottom: grey solid 1px;
+
+}
+
+h3 {
+    padding-top: 80px;
+    color: #ed8936;
+    padding-bottom: 25px;
+}
+
+h1 {
+    color: white;
+    justify-content: center;
+    text-align: center;
+    
+ 
+}
