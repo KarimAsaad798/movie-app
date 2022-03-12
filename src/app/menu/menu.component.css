@@ -1,4 +1,4 @@
-.container-fluid {
+.container {
     background-color:#1a202c;
     height: 75px;
 }
@@ -43,8 +43,10 @@ a {
     border-radius: 25px;
     width: 255px;
     background-color: #2d3748;
-    border: solid 1px slateblue;
+    border: solid 1px #2d3748;
+    color: #2d3748;
     height: 30px;
+
 }
 
 
@@ -77,4 +79,19 @@ ul{
 
 .icon-film {
 
+}
+
+.logo-image {
+    width:35px;
+    height: 35px;
+    transform: translateY(18px);
+
+}
+
+.icon-search {
+    width: 30px;
+    height: 30px;
+    color: grey;
+    transform: translateX(-250px);
+    transform: translateY(10px);
 }
